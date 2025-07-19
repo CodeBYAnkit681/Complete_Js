@@ -2,7 +2,9 @@
 // // 10 => 1010 => in decimal number =>10
 // console.log(a);
 
-// DataTypes
+// DataTypes => primitive and non-primitive
+
+// primitive  
 
 // NNBBSSU
 
