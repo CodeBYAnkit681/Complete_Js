@@ -17,7 +17,9 @@ anotherName = "bhavya";
 // non-primitive types = > array, functions and objects
 // arrays
 let arr = ["ankit","sonu","rahul"];
-console.log(arr);
+let arr2;
+arr2 = [10,20,30,40,50];
+console.log("type of arr2 = ",typeof arr2);
 
 // console.log(typeof arr);
 
@@ -27,8 +29,12 @@ function fun_Name(x,y){
     // defining
     console.log(x+y);
 }
+const fun2 = ()=>{
+    console.log("fun2");
+}
 // calling
 fun_Name(10,20); 
+fun2();
 
 // objects
 let firstObj = {
@@ -42,7 +48,11 @@ firstObj.sName = "rahul";
 // synchronous 
 console.log(firstObj);
 
-
+let obj2 = {
+    fisrtName: "ankit",
+    age : 25,
+}
+console.log(obj2);
 
 // reference type 
 // original value will affect
