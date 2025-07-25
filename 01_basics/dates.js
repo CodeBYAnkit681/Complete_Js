@@ -9,7 +9,7 @@ let myDate = new Date("August,18,2002");
 // console.log(myDate.toLocaleDateString());
 // console.log(myDate.toLocaleTimeString());
 // console.log(myDate.toLocaleString());
-console.log(myDate.getDay());
-console.log(myDate.getTime());
+// console.log(myDate.getDay());
+// console.log(myDate.getTime());
 
 // let newMonth = myDate.setMonth(8);
