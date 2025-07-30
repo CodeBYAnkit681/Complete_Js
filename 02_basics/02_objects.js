@@ -4,14 +4,6 @@
 // object nesting and conditional accesibility 
 // object addition using {onj1,obj2}, using Object.assign() and using {...obj1 separators}
 
-// +++++++++++++++++++++++++++++++++++++++++++++++++++part 3 ++++++++++++++++++++++++++++++
-// arrays of object creation and accessing 
-// Object.keys and object.values => returns a array 
-// object.entries => returns a key value pair array of array
-// hasOwnProperty => return boolean
-// destructuring { name : shortDefined} = object 
-// react overview of props and api or json talks
-
 const { forwardRef } = require("react");
 
 
