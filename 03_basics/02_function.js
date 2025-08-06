@@ -1,4 +1,6 @@
 // read about parameters through this url = https://www.w3schools.com/js/js_function_parameters.asp
+// object, arrays as an parameter
+//  scope  and nested functions
 
 
 // function one(num1,num2){
@@ -73,5 +75,19 @@ function one(){
 }
 
 one();
+//country
+
+// [//state
+//     rahul,
+//     console.log(age),
+//     { //house
+//         age : 24
+//         newName = rahul
+//         [ //room
+
+//             local
+//         ]
+//     }
+// ]
 
 

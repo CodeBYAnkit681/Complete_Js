@@ -1,7 +1,5 @@
 // creation and return ,reference and calling difference, rest operator 
-// object, arrays as an parameter
-//  scope  and nested functions
-// multiple ways of declaring fxn and mini hoisting structure intro
+
 
 // syntax
 // function fxnName(){
